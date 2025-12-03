@@ -1,0 +1,8 @@
+num1 = int(input("enter first number: "))
+num2 = int(input("enter second number: "))
+print("sum of num1 and num2 is :", num1 + num2)
+print("multiplication of num1 and num2 is :", num1 * num2)
+print("divide of num1 and num2 is :", num1 / num2)
+print("percentage of num1 and num2 is :", num1 % num2)
+print("Floor Division of num1 and num2 is :", num1 // num2)
+print("Exponentiation of num1 and num2 is :", num1 ** num2)
